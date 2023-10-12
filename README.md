@@ -1,1 +1,3 @@
-# compensaiton_visualization
+# Compensaiton Visualization
+
+### Package : Pandas, Plotly
